@@ -1,0 +1,11 @@
+{
+    "asset": "793baaf8b6b0b5d4f9ad65dc29e63487",
+    "fileName": "0199624b-3866-7c64-8485-42eae8013390_Preview.png",
+    "prompt": "Slippery surface bright pastel pink with stripes as a candy",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 753337956,
+    "w3CTraceId": "fe94d709b65aaef6f96aa8dd3d96bcea",
+    "refinementMode": "Generation"
+}

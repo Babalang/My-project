@@ -1,0 +1,20 @@
+{
+    "asset": "6d14ec8c334f5d5439cc924486d6b9f2",
+    "fileName": "01996249-ebf2-797c-9980-583a5b373cb4.png",
+    "prompt": "Generate a high-resolution texture of a vibrant gradient sky. The gradient should transition smoothly from deep\r\norange at the bottom to bright pink and soft purple in the middle, fading into a light golden yellow at the top. The\r\noverall tone should evoke a warm, serene sunset atmosphere with a soft glow effect. Ensure the colors are vivid and\r\nwell-blended, with no harsh lines or artifacts",
+    "negativePrompt": "",
+    "model": "48889f10-63e9-4608-8eea-a668ac2aff3e",
+    "modelName": "Casual Environments",
+    "customSeed": -1,
+    "w3CTraceId": "d58c0bbc025197fd3e6e181bc48a5a56",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

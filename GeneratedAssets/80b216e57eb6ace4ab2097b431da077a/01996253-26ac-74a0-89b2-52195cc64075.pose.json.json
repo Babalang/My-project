@@ -1,0 +1,11 @@
+{
+    "asset": "3683e7cfc4286834ebbe3281c3aef3cc",
+    "fileName": "01996253-26ac-74a0-89b2-52195cc64075.pose.json",
+    "prompt": "Smooth dance to upbeat music, moving fluidly with rhythmic arm and leg motions",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 740256281,
+    "w3CTraceId": "261047bf6b472ee573e97e8dbfa6fe73",
+    "isTrimmed": false
+}

@@ -1,0 +1,11 @@
+{
+    "asset": "9021193a02881644e93de397039d246e",
+    "fileName": "01996251-889e-7f8c-b6f8-051dd2645714.pose.json",
+    "prompt": "Slow idle animation while swaying side to side",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 621811788,
+    "w3CTraceId": "7743f3d35bba85aa388dfd233309f376",
+    "isTrimmed": false
+}

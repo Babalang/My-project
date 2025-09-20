@@ -1,0 +1,20 @@
+{
+    "asset": "3803bd764fc2cc74282268fb3f5f1cfc",
+    "fileName": "01996241-a583-7c00-a86d-9b4b3069912b.jpg",
+    "prompt": "vibrant candy world with warm tones, soft glow effect",
+    "negativePrompt": "Blurry, artifacts, birds",
+    "model": "94c4260f-b988-40e7-b3d3-435b9f449bd0",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "dde023b3b38af4387019fbd3fb8a5449",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
